@@ -17,15 +17,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on cyber security...
 - 🌱 I’m currently learning python & golang & cyber security...
-- ⚡ Fun fact: playing switch...
+- ⚡ Fun fact: playing switch ...
 
 
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
 [![](https://img.shields.io/badge/iOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
-![](https://simpleicons.org/icons/go.svg)
+![![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FDlucifer.readme)
-
 ![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
