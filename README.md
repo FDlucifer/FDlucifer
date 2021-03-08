@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python & golang & cyber security...
 - ⚡ Fun fact: playing switch...
 
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=FDlucifer.readme)
 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
