@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Now working on 代码审计 ...
-- 🌱 Now playing with python & golang & cyber security ...
-- ⚡ Fun fact: now playing switch ...
+- 🌱 Now working with python & golang & cyber security ...
+- ⚡ Fun fact: playing switch...
 - 🤔 special skills
 
 ```
-1. web黑盒渗透测试，内网攻防, redteam captain for 4 years
+1. web黑盒渗透测试，内网攻防, and be a redteam captain for 4 years
 2. java php python golang 白盒代码审计
 3. now focus on pwn && crypto and i will dig to the deepest in the future [捂脸]
-4. also like to paly codewars && leetcode && adventure of code
-5. CTF 100% addict
+4. also like to play codewars && leetcode && adventure of code
+5. 100% CTF addict
 6. hackthebox guru expert also play tryhackme and other ctf online platforms
-7. my goal is control every bytes of a pc :>>>>>
+7. my goal is control every bytes of a hardware :>>>>>
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
@@ -39,11 +39,9 @@ Here are some ideas to get you started:
 ![FDlucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&theme=tokyonight)
 
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
-
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/fdlucifer)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=FDlucifer.readme)
 
