@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/fdlucifer)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=FDlucifer.readme)
 
