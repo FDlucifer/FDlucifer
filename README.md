@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Now working on cyber security ...
+- 🔭 Now working on 代码审计 ...
 - 🌱 Now playing with python & golang & cyber security ...
-- ⚡ Fun fact: playing switch ...
+- ⚡ Fun fact: now playing switch ...
 - 🤔 special skills
 
 ```
@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 3. now focus on pwn && crypto and i will dig to the deepest in the future [捂脸]
 4. also like to paly codewars && leetcode && adventure of code
 5. CTF 100% addict
-6. 
+6. hackthebox guru expert also play tryhackme and other ctf online platforms
+7. my goal is control every bytes of a pc :>>>>>
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
