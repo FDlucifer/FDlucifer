@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 ```
 1. web黑盒渗透测试，红蓝内网攻防
 2. java php python golang 白盒代码审计
+3. now focus on pwn && crypto and i will dig to the deepest in the future [捂脸]
+4. 
 ```
 
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
