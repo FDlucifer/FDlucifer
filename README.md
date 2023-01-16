@@ -21,15 +21,18 @@ Here are some ideas to get you started:
 - 🤔 special skills
 
 ```
-1. web黑盒渗透测试，红蓝内网攻防
+1. web黑盒渗透测试，内网攻防, redteam captain for 4 years
 2. java php python golang 白盒代码审计
 3. now focus on pwn && crypto and i will dig to the deepest in the future [捂脸]
 4. 
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
+
 ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
+
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
