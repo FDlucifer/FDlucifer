@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 - 🔭 Now working on cyber security ...
 - 🌱 Now playing with python & golang & cyber security ...
 - ⚡ Fun fact: playing switch ...
+- 🤔 special skills
 
+```
+1. web黑盒渗透测试，红蓝内网攻防
+2. java php python golang 白盒代码审计
+```
 
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
