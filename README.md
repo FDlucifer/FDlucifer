@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/FDlucifer/count.svg)
 
+![FDlucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&theme=tokyonight)
+
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
 
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
