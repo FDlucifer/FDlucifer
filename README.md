@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 1. web黑盒渗透测试，内网攻防, redteam captain for 4 years
 2. java php python golang 白盒代码审计
 3. now focus on pwn && crypto and i will dig to the deepest in the future [捂脸]
-4. 
+4. also like to paly codewars && leetcode && adventure of code
+5. CTF 100% addict
+6. 
 ```
 
 ![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
