@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 7. my goal is control every bytes of a hardware :>>>>>
 ```
 
-![](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&count_private=true&hide=prs&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FDlucifer&layout=compact)](https://github.com/FDlucifer/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/FDlucifer/count.svg)
