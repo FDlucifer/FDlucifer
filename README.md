@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: playing switch...
 - 🤔 special skills
 
-```
+
 1. web黑盒渗透测试，内网攻防, and be a redteam captain for 4 years
 2. java php python golang 白盒代码审计
 3. now focus on pwn && crypto will dig into the deepest [捂脸]
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 5. 100% CTF addict
 6. hackthebox guru expert also play tryhackme and other ctf online platforms
 7. my goal is control every bytes of a hardware :>>>>>
-```
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FDlucifer&layout=compact)](https://github.com/FDlucifer/github-readme-stats)
 
