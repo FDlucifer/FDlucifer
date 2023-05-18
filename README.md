@@ -1,4 +1,4 @@
-### Hi Bros let's coding with fun...👋
+### Hi Bros, nice to meet you, let's coding with fun and precision...👋
 
 <!--
 **FDlucifer/FDlucifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Now focusing on 代码审计 ...
+- 🔭 Now focusing on leetcode and algorithms ...
 - 🌱 Now skilling with python & golang & java & arm & x86 ...
-- ⚡ Fun interest : playing switch...
-- 🤔 special skills
+- ⚡ Fun interest: playing switch and old pixel games ...
+- 🤔 special skills:
 
 
-- 1. web黑盒渗透测试，内网攻防, and be a redteam captain for 4 years
-- 2. java php python golang 白盒代码审计
+- 1. web Black box penetration test, Intranet attack and defense, and used to be a redteam captain with more than 4 years experience
+- 2. java php python golang White box code audit
 - 3. now focus on pwn && crypto will dig into the deepest [捂脸]
-- 4. also like to play codewars && leetcode && adventure of code
-- 5. 100% CTF addict
+- 4. also like to play codewars && leetcode && adventure of code && codeforce
+- 5. 1000000000000% CTF addict
 - 6. hackthebox guru expert also play tryhackme and other ctf online platforms
-- 7. my goal is control every bytes of a hardware :>>>>>
+- 7. my goal is control every bytes of a hardware, like a goast in the computer :>>>>>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FDlucifer&layout=compact)](https://github.com/FDlucifer/github-readme-stats)
