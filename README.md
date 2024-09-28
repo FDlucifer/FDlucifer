@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 🤔 special skills:
 
 
-- 1. web Black box penetration test, Intranet attack and defense, and used to be a redteam captain with more than 4 years experience
-- 2. java php python golang White box code audit
+- 1. 0-day reasearch
+- 2. java php python golang code audit
 - 3. now focus on pwn && crypto will dig into the deepest [捂脸]
 - 4. also like to play codewars && leetcode && adventure of code && codeforce
 - 5. 1000000000000% CTF addict
