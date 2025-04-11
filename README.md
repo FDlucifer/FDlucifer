@@ -15,19 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Now focusing on leetcode and algorithms ...
-- 🌱 Now skilling with python & golang & java & arm & x86 ...
+- 🔭 Now focusing on win/lin/mac os kernel sec & low level langudage & algorithms ...
+- 🌱 Now skilling with python & golang & java & arm & x86 & c ...
 - ⚡ Fun interest: playing switch and old pixel games ...
 - 🤔 special skills:
 
 
 - 1. 0-day reasearch
-- 2. java php python golang code audit
-- 3. now focus on pwn && crypto will dig into the deepest [捂脸]
-- 4. also like to play codewars && leetcode && adventure of code && codeforce
+- 2. low level things
+- 3. now focus on pwn && reversing will dig into the deepest
+- 4. also like to play codewars && leetcode && adventure of code && codeforce challenges
 - 5. 1000000000000% CTF addict
 - 6. hackthebox guru expert also play tryhackme and other ctf online platforms
-- 7. my goal is control every bytes of a hardware, like a goast in the computer :>>>>>
+- 7. my goal is control every bytes of a hardware, like a goast in the computer [鬼上电脑] :>>>>>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FDlucifer&layout=compact)](https://github.com/FDlucifer/github-readme-stats)
