@@ -29,13 +29,6 @@ Here are some ideas to get you started:
 - 6. hackthebox guru expert also play tryhackme and other ctf online platforms
 - 7. my goal is control every bytes of a hardware, like a goast in the computer [鬼上电脑] :>>>>>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FDlucifer&layout=compact)](https://github.com/FDlucifer/github-readme-stats)
-
-![Visitor Count](https://profile-counter.glitch.me/FDlucifer/count.svg)
-
-![FDlucifer's GitHub stats](https://github-readme-stats.vercel.app/api?username=FDlucifer&show_icons=true&theme=tokyonight)
-
 [![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
 [![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
