@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 
 ---
 
+[Current focus](#current-focus) · [Projects & archives](#projects-and-archives)
+
+<a id="current-focus"></a>
+
 ## `01` // CURRENT SIGNAL
 
 **Reverse engineer. Systems tinkerer. Pixel-game fan.**
@@ -57,10 +61,17 @@ I like working from the bytes up: start with a binary or a trace, follow what th
 - **Exploring next:** Ethereum execution and blockchain development, from bytecode and transaction traces to contract testing.
 - **Off the bench:** retro pixel games and neon-lit cyberpunk worlds.
 
+<a id="projects-and-archives"></a>
+
 ## `02` // SELECTED WORK & LEARNING ARCHIVES
 
-- **[Technical blog](https://github.com/FDlucifer/FDlucifer.github.io)** · Notes on reverse engineering, binary security, and CTF write-ups.
+### Projects
+
+- **[Technical blog source](https://github.com/FDlucifer/FDlucifer.github.io)** · Notes on reverse engineering, binary security, and CTF write-ups.
 - **[goendecoder](https://github.com/FDlucifer/goendecoder)** · Go experiments in encoding, decoding, and CTF-oriented cryptography.
+
+### Learning archives
+
 - **[Python / C / C++ practice](https://github.com/FDlucifer/python-climb-learning-tutorial)** · Learning exercises, including practice based on NeuralNine tutorials.
 - **[Algorithm notebook](https://github.com/FDlucifer/python300-arithmetic)** · Python algorithm exercises collected for practice and review.
 
